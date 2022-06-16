@@ -26,6 +26,8 @@ function App() {
         </div>
         </div>
       </div>
+
+      
     
     </ShopContext.Provider>
   );
